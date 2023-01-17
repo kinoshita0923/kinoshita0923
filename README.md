@@ -6,6 +6,10 @@ I'm Sota Kinoshita!
 - [twitter](https://twitter.com/sota_kinoshita)
 - [zenn](https://zenn.dev/kinoshita0923)
 
+### Visitor Count
+<img src="https://profile-counter.glitch.me/kinoshita0923/count.svg" >
+
+
 <a href="https://github.com/kinoshita0923/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinoshita0923&theme=midnight-purple&conut_private=true" />
 </a>
@@ -13,6 +17,3 @@ I'm Sota Kinoshita!
 <a href="https://github.com/kinoshita0923/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinoshita0923&theme=midnight-purple&cont_private=true" />
 </a>
-
-<p>Visitor Count</p>
-<img src="https://profile-counter.glitch.me/kinoshita0923/count.svg" >
