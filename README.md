@@ -3,8 +3,8 @@
 I'm Sota Kinoshita!
 
 <div style="display: flex;">
-    <img src="https://${DOMAIN}/api/top-langs/?username=kinoshita0923&theme=midnight-purple&cont_private=true" />
-    <img src="https://${DOMAIN}/api?username=kinoshita0923&theme=midnight-purple&conut_private=true" />
+    <img src="https://github-readme-stats-kinoshita0923.vercel.app/api/top-langs/?username=kinoshita0923&theme=midnight-purple&cont_private=true" />
+    <img src="https://github-readme-stats-kinoshita0923.vercel.app/api?username=kinoshita0923&theme=midnight-purple&conut_private=true" />
 </div>
 
 ### Contact
